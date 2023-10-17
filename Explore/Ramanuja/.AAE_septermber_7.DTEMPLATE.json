@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "desc",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-09-07T06:45:24.753Z",
+  "updateTime" : "2023-10-17T14:22:13.762Z",
   "objectRefs" : [ {
     "id" : "fHgg0SvThk4geg1xs3JSO0",
     "name" : "rm_ff",
